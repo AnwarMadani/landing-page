@@ -67,3 +67,10 @@ img{
     width: 70px;
     height: 70px;
 }
+
+.grey{
+    color: #1F2937;
+    background-color: #E5E7EB;
+    text-align: center;
+    padding: 100px;
+}
