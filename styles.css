@@ -74,3 +74,18 @@ img{
     text-align: center;
     padding: 100px;
 }
+
+.blue{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    background-color: #3882f6;
+}
+
+
+
+footer{
+    text-align: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
