@@ -1,0 +1,26 @@
+header{
+    color: #F9FAF8;
+    background-color: #1F2937;
+}
+
+nav{
+    display: flex;
+    padding: 20px;
+    justify-content:space-between;
+    flex: 1 1 auto;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: #E5E7EB;
+}
